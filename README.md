@@ -43,6 +43,13 @@ https://github.com/teterouge/AOAI-AzureSearch-Excel
 
 ---
 
+### CodeWorth Claude Code Skill
+Estimate the real cost to rebuild any codebase from scratch.
+
+https://github.com/teterouge/codeworth
+
+---
+
 # Product Lab
 
 This GitHub account functions primarily as a **product systems lab** where I publish reference architectures, experiments, and technical notes derived from product work.
